@@ -1,0 +1,1 @@
+runas /user:imc\admin /savecredential netsh interface ip set address "Connexion au réseau local" dhcp
